@@ -1,0 +1,114 @@
+1) Query: aer
+Algorithm: LSH
+Approximate Nearest neighbor: abt
+True Nearest neighbor: abt
+distanceApproximate: 78.015
+distanceTrue: 78.015
+--- tApproximate: 0.034
+--- tTRUE: 0.112
+
+
+
+2) Query: aeri
+Algorithm: LSH
+Approximate Nearest neighbor: aa
+True Nearest neighbor: abcb
+distanceApproximate: 273.728
+distanceTrue: 259.051
+--- tApproximate: 0.028
+--- tTRUE: 0.104
+
+
+
+3) Query: aes
+Algorithm: LSH
+Approximate Nearest neighbor: abdc
+True Nearest neighbor: abdc
+distanceApproximate: 33.792
+distanceTrue: 33.792
+--- tApproximate: 0.058
+--- tTRUE: 0.101
+
+
+
+4) Query: aet
+Algorithm: LSH
+Approximate Nearest neighbor: aapl
+True Nearest neighbor: aapl
+distanceApproximate: 323.980
+distanceTrue: 323.980
+--- tApproximate: 0.023
+--- tTRUE: 0.103
+
+
+
+5) Query: aeti
+Algorithm: LSH
+Approximate Nearest neighbor: acst
+True Nearest neighbor: acst
+distanceApproximate: 24.924
+distanceTrue: 24.924
+--- tApproximate: 0.055
+--- tTRUE: 0.121
+
+
+
+6) Query: aey
+Algorithm: LSH
+Approximate Nearest neighbor: aau
+True Nearest neighbor: aau
+distanceApproximate: 28.669
+distanceTrue: 28.669
+--- tApproximate: 0.074
+--- tTRUE: 0.101
+
+
+
+7) Query: aezs
+Algorithm: LSH
+Approximate Nearest neighbor: advm
+True Nearest neighbor: advm
+distanceApproximate: 192.550
+distanceTrue: 192.550
+--- tApproximate: 0.088
+--- tTRUE: 0.109
+
+
+
+8) Query: afam
+Algorithm: LSH
+Approximate Nearest neighbor: acc
+True Nearest neighbor: abt
+distanceApproximate: 192.652
+distanceTrue: 166.735
+--- tApproximate: 0.022
+--- tTRUE: 0.090
+
+
+
+9) Query: afb
+Algorithm: LSH
+Approximate Nearest neighbor: adx
+True Nearest neighbor: adx
+distanceApproximate: 33.372
+distanceTrue: 33.372
+--- tApproximate: 0.038
+--- tTRUE: 0.090
+
+
+
+10) Query: afc
+Algorithm: LSH
+Approximate Nearest neighbor: aeh
+True Nearest neighbor: aeh
+distanceApproximate: 10.999
+distanceTrue: 10.999
+--- tApproximate: 0.055
+--- tTRUE: 0.090
+
+
+
+tApproximateAverage: 0.048
+tTrueAverage: 0.102
+MAF: 1.155
+W: 323 

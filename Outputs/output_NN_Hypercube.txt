@@ -1,0 +1,113 @@
+1) Query: aer
+Algorithm: Hypercube
+Approximate Nearest neighbor: adm
+True Nearest neighbor: abt
+distanceApproximate: 120.737
+distanceTrue: 78.015
+--- tApproximate: 0.027
+--- tTRUE: 0.149
+
+
+
+2) Query: aeri
+Algorithm: Hypercube
+Approximate Nearest neighbor: aaoi
+True Nearest neighbor: abcb
+distanceApproximate: 336.191
+distanceTrue: 259.051
+--- tApproximate: 0.017
+--- tTRUE: 0.112
+
+
+
+3) Query: aes
+Algorithm: Hypercube
+Approximate Nearest neighbor: abdc
+True Nearest neighbor: abdc
+distanceApproximate: 33.792
+distanceTrue: 33.792
+--- tApproximate: 0.044
+--- tTRUE: 0.105
+
+
+
+4) Query: aet
+Algorithm: Hypercube
+Approximate Nearest neighbor: acn
+True Nearest neighbor: aapl
+distanceApproximate: 421.637
+distanceTrue: 323.980
+--- tApproximate: 0.022
+--- tTRUE: 0.118
+
+
+
+5) Query: aeti
+Algorithm: Hypercube
+Approximate Nearest neighbor: acst
+True Nearest neighbor: acst
+distanceApproximate: 24.924
+distanceTrue: 24.924
+--- tApproximate: 0.046
+--- tTRUE: 0.144
+
+
+
+6) Query: aey
+Algorithm: Hypercube
+Approximate Nearest neighbor: aau
+True Nearest neighbor: aau
+distanceApproximate: 28.669
+distanceTrue: 28.669
+--- tApproximate: 0.057
+--- tTRUE: 0.142
+
+
+
+7) Query: aezs
+Algorithm: Hypercube
+Approximate Nearest neighbor: abus
+True Nearest neighbor: advm
+distanceApproximate: 405.044
+distanceTrue: 192.550
+--- tApproximate: 0.030
+--- tTRUE: 0.142
+
+
+
+8) Query: afam
+Algorithm: Hypercube
+Approximate Nearest neighbor: adc
+True Nearest neighbor: abt
+distanceApproximate: 245.057
+distanceTrue: 166.735
+--- tApproximate: 0.022
+--- tTRUE: 0.111
+
+
+
+9) Query: afb
+Algorithm: Hypercube
+Approximate Nearest neighbor: adx
+True Nearest neighbor: adx
+distanceApproximate: 33.372
+distanceTrue: 33.372
+--- tApproximate: 0.074
+--- tTRUE: 0.130
+
+
+
+10) Query: afc
+Algorithm: Hypercube
+Approximate Nearest neighbor: aeh
+True Nearest neighbor: aeh
+distanceApproximate: 10.999
+distanceTrue: 10.999
+--- tApproximate: 0.033
+--- tTRUE: 0.113
+
+
+
+tApproximateAverage: 0.037
+tTrueAverage: 0.126
+MAF: 2.104
