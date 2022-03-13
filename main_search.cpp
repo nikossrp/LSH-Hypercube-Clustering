@@ -22,7 +22,7 @@ int main(int argc, char* argv[])
     using std::chrono::duration;
     using std::chrono::milliseconds;
 
-    // for the time
+    // hold the run time
     std::chrono::_V2::system_clock::time_point tAlgorithm_start, tAlgorithm_end, tTrue_start, tTrue_end;    
     std::chrono::steady_clock::time_point begin, end, begin_filling, end_filling;
     double time_for_filling_structs = 0.0;
