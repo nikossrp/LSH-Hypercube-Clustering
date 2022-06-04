@@ -1,7 +1,7 @@
 all: search cluster unit_test
 
 CC = g++ -O2
-FLAGS = -c #-g -std=c++14 #-Wall
+FLAGS = -c -g #-std=c++14 #-Wall
 
 
 OBJS1 =  main_search.o Grid.o Utilities.o Dataset.o HashTable.o LSH.o Hypercube.o

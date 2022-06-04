@@ -1,0 +1,93 @@
+Query: aer
+Algorithm: LSH
+Approximate Nearest neighbor: abt
+True Nearest neighbor: abt
+distanceApproximate: 78.015
+distanceTrue: 78.015
+
+
+
+Query: aeri
+Algorithm: LSH
+Approximate Nearest neighbor: aa
+True Nearest neighbor: abcb
+distanceApproximate: 273.728
+distanceTrue: 259.051
+
+
+
+Query: aes
+Algorithm: LSH
+Approximate Nearest neighbor: abdc
+True Nearest neighbor: abdc
+distanceApproximate: 33.792
+distanceTrue: 33.792
+
+
+
+Query: aet
+Algorithm: LSH
+Approximate Nearest neighbor: aapl
+True Nearest neighbor: aapl
+distanceApproximate: 323.980
+distanceTrue: 323.980
+
+
+
+Query: aeti
+Algorithm: LSH
+Approximate Nearest neighbor: acst
+True Nearest neighbor: acst
+distanceApproximate: 24.924
+distanceTrue: 24.924
+
+
+
+Query: aey
+Algorithm: LSH
+Approximate Nearest neighbor: aau
+True Nearest neighbor: aau
+distanceApproximate: 28.669
+distanceTrue: 28.669
+
+
+
+Query: aezs
+Algorithm: LSH
+Approximate Nearest neighbor: advm
+True Nearest neighbor: advm
+distanceApproximate: 192.550
+distanceTrue: 192.550
+
+
+
+Query: afam
+Algorithm: LSH
+Approximate Nearest neighbor: abt
+True Nearest neighbor: abt
+distanceApproximate: 166.735
+distanceTrue: 166.735
+
+
+
+Query: afb
+Algorithm: LSH
+Approximate Nearest neighbor: adx
+True Nearest neighbor: adx
+distanceApproximate: 33.372
+distanceTrue: 33.372
+
+
+
+Query: afc
+Algorithm: LSH
+Approximate Nearest neighbor: aeh
+True Nearest neighbor: aeh
+distanceApproximate: 10.999
+distanceTrue: 10.999
+
+
+
+tApproximateAverage: 0.053
+tTrueAverage: 0.099
+MAF: 1.057

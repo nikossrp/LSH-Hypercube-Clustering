@@ -1,0 +1,88 @@
+Query: aer
+Algorithm: Hypercube
+Approximate Nearest neighbor: Not found
+True Nearest neighbor: abt
+distanceTrue: 78.015
+
+
+
+Query: aeri
+Algorithm: Hypercube
+Approximate Nearest neighbor: Not found
+True Nearest neighbor: abcb
+distanceTrue: 259.051
+
+
+
+Query: aes
+Algorithm: Hypercube
+Approximate Nearest neighbor: Not found
+True Nearest neighbor: abdc
+distanceTrue: 33.792
+
+
+
+Query: aet
+Algorithm: Hypercube
+Approximate Nearest neighbor: Not found
+True Nearest neighbor: aapl
+distanceTrue: 323.980
+
+
+
+Query: aeti
+Algorithm: Hypercube
+Approximate Nearest neighbor: acst
+True Nearest neighbor: acst
+distanceApproximate: 24.924
+distanceTrue: 24.924
+
+
+
+Query: aey
+Algorithm: Hypercube
+Approximate Nearest neighbor: aau
+True Nearest neighbor: aau
+distanceApproximate: 28.669
+distanceTrue: 28.669
+
+
+
+Query: aezs
+Algorithm: Hypercube
+Approximate Nearest neighbor: Not found
+True Nearest neighbor: advm
+distanceTrue: 192.550
+
+
+
+Query: afam
+Algorithm: Hypercube
+Approximate Nearest neighbor: abco
+True Nearest neighbor: abt
+distanceApproximate: 245.237
+distanceTrue: 166.735
+
+
+
+Query: afb
+Algorithm: Hypercube
+Approximate Nearest neighbor: adx
+True Nearest neighbor: adx
+distanceApproximate: 33.372
+distanceTrue: 33.372
+
+
+
+Query: afc
+Algorithm: Hypercube
+Approximate Nearest neighbor: aeh
+True Nearest neighbor: aeh
+distanceApproximate: 10.999
+distanceTrue: 10.999
+
+
+
+tApproximateAverage: 0.030
+tTrueAverage: 0.095
+MAF: 1.471
